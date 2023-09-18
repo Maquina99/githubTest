@@ -27,7 +27,7 @@ class _DiceRollerState extends State<DiceRoller> {
       mainAxisSize: MainAxisSize.min,
       children: [
         Image.asset(
-          'C:/Users/Yuri/Desktop/flutter_projects/assets/images/dice-$currentDiceRoll.png',
+          'assets/images/dice-$currentDiceRoll.png',
           width: 200,
         ),
         TextButton(
